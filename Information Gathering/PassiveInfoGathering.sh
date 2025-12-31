@@ -1,12 +1,12 @@
-#COMMANDS FOR INFORMATION GATHERING.
+#COMMANDS && Sites FOR PASSIVE INFORMATION GATHERING.
 
-whatis host  
+=whatis host  
 #DNS lookup
 
-whatweb  
+=whatweb  
 #web technology used   
 
-host 
+=host 
 #ip address, etc
 
 extensions(wappalyzer, buildwith)
@@ -18,8 +18,14 @@ webhttrack (site)
 whois(site)
 #information of dns
 
-Netcraft
+Netcraft (site)
 #website footprinting
+
+=dnsrecon 
+#For Website Reconnaiance
+
+dnsdumpster (site)
+#Discovers hosts related to domain
 
 
 

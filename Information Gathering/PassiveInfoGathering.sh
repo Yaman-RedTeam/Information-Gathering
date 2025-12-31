@@ -15,3 +15,8 @@ extensions(wappalyzer, buildwith)
 webhttrack 
 #website copier download
 
+Netcraft
+#website footprinting
+
+
+

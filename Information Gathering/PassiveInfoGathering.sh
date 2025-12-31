@@ -12,8 +12,11 @@ host
 extensions(wappalyzer, buildwith)
 #Techology used in details 
  
-webhttrack 
+webhttrack (site)
 #website copier download
+
+whois(site)
+#information of dns
 
 Netcraft
 #website footprinting
